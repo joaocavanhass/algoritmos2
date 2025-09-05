@@ -1,4 +1,4 @@
-package src;
+package aula2;
 
 public class BuscaLinear {
 
