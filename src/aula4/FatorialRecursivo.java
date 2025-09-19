@@ -1,4 +1,4 @@
-package src;
+package aula4;
 
 public class FatorialRecursivo {
     // método recursivo que calcula o fatorial
