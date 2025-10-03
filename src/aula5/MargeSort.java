@@ -1,5 +1,7 @@
 package src;
 
+import java.util.*;
+
 public class MargeSort {
     // método principal que inicia o processo de ordenação
     public static void mergeSort(int[] array) {
