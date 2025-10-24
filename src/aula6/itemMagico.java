@@ -1,3 +1,5 @@
+package aula6;
+
 public abstract class itemMagico {
     // campos comuns a todos os itens
     protected String nome;
